@@ -1,0 +1,5 @@
+.pane-short .heading {
+  text-decoration: underline solid red;
+  padding: 10px 11px;
+  border: 1px dashed green;
+}
