@@ -3,6 +3,39 @@
   padding: 5px;
 }
 
-.nav-top {
+.nav-bottom {
   position: absolute;
+  right: 0px;
+  bottom: 0px;
+  background-color: blue;
+  color: brown;
+  z-index: 1;
+}
+
+.nav-bottom a {
+  color: brown;
+}
+
+.legend {
+  position: absolute;
+  background-color: gray;
+  border: 1px solid red;
+}
+
+.container {
+  position: relative;
+}
+
+.sup {
+  font-size: x-small;
+  position: relative;
+  top: -5px;
+}
+
+.nav-top {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  background-color: green;
 }
