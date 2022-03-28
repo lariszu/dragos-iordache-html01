@@ -1,108 +1,108 @@
 @font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-Medium.woff2') format('woff2'),
-    url('../fonts/Roboto-Medium.woff') format('woff');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
-    url('../fonts/Roboto-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-Italic.woff2') format('woff2'),
-    url('../fonts/Roboto-Italic.woff') format('woff');
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-LightItalic.woff2') format('woff2'),
-    url('../fonts/Roboto-LightItalic.woff') format('woff');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-ThinItalic.woff2') format('woff2'),
-    url('../fonts/Roboto-ThinItalic.woff') format('woff');
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-Thin.woff2') format('woff2'),
-    url('../fonts/Roboto-Thin.woff') format('woff');
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-Bold.woff2') format('woff2'),
-    url('../fonts/Roboto-Bold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-Black.woff2') format('woff2'),
-    url('../fonts/Roboto-Black.woff') format('woff');
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-Light.woff2') format('woff2'),
-    url('../fonts/Roboto-Light.woff') format('woff');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-BlackItalic.woff2') format('woff2'),
-    url('../fonts/Roboto-BlackItalic.woff') format('woff');
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-MediumItalic.woff2') format('woff2'),
-    url('../fonts/Roboto-MediumItalic.woff') format('woff');
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-MediumItalic.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-MediumItalic.woff') format('woff');
   font-weight: 500;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Roboto';
-  src: url('../fonts/Roboto-BoldItalic.woff2') format('woff2'),
-    url('../fonts/Roboto-BoldItalic.woff') format('woff');
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-ExtraBoldItalic.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-ExtraBoldItalic.woff') format('woff');
   font-weight: bold;
   font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-Bold.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-Black.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-Italic.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-Medium.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-BlackItalic.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-BlackItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-ExtraBold.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-ExtraBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-BoldItalic.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-SemiBold.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-SemiBoldItalic.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-SemiBoldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('../fonts/PlayfairDisplay-Regular.woff2') format('woff2'),
+    url('../fonts/PlayfairDisplay-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
   font-display: swap;
 }
 
@@ -241,7 +241,7 @@ table {
 }
 
 body {
-  font-family: 'Roboto', 'sans-serif';
+  font-family: 'Playfair Display', 'sans-serif';
   color: #000000;
   font-size: 14px;
 }
@@ -251,49 +251,51 @@ a {
   text-decoration: none;
 }
 
-.header {
-  margin: 40px;
+.container {
+  width: 1284px;
+  max-width: 1284px;
+  margin: 0 auto;
 }
 
-.header-social-media {
+.header-top {
+  background: url('../images/banner.png') center center / cover no-repeat;
+  height: 500px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.header-connect {
   float: left;
   color: #ffff;
   text-transform: uppercase;
   font-size: 16px;
-  padding: 30px 0 48px 400px;
+  justify-content: space-between;
+  margin-top: 30px;
 }
 
-.header-social-media li {
+.header-connect li {
   display: inline-block;
 }
 
-.header-social-media i[class^='fa-'] {
+.header-connect i[class^='fa-'] {
   display: block;
   letter-spacing: 25px;
   font-size: 18px;
 }
 
-.header-user {
-  display: flex;
-  font-size: 16px;
-  padding: 30px 0 48px 400px;
-  letter-spacing: 9px;
+.header-controls {
+  float: right;
+  margin-top: 30px;
 }
 
-.header-user li {
+.header-controls li {
   display: inline-block;
 }
 
 .header-bottom {
   background: #2b2b2b;
-  width: 1920px;
   height: 52px;
-  text-align: center;
-}
-
-.header-bottom ul {
-  max-width: 1280px;
-  margin: 0 auto;
 }
 
 .header-bottom li {
@@ -302,6 +304,16 @@ a {
   text-transform: uppercase;
   font-size: 16px;
   font-weight: 100;
+  margin: 15px 78px 15px 78px;
+  /* change margins */
+}
+
+.header-bottom li:first-child {
+  margin-left: 0;
+}
+
+.header-bottom li:last-child {
+  margin-right: 0;
 }
 
 .banner-main {
@@ -310,12 +322,244 @@ a {
   height: 500px;
 }
 
-.content {
-  max-width: 1280px;
-  margin: 0 auto;
+hr {
+  margin: 20px 0 20px 0;
 }
 
-.product-tile {
+.home-catalog-preview h1 {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: #2b2b2b;
+  margin: 20px;
+}
+
+.home-catalog-preview .product-tiles {
+  justify-content: space-between;
+}
+
+.home-catalog-preview .product-tile {
   display: inline-block;
-  margin: 0 auto;
+  width: 23.672566371%;
+}
+
+.home-catalog-preview .product-tile-image {
+  position: relative;
+}
+
+.home-catalog-preview .product-tile-image img {
+  width: 100%;
+}
+
+.home-catalog-preview .product-tile-image .product-tile-badge {
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.home-catalog-preview .product-tile .product-tile-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.home-catalog-preview .product-tile .product-tile-price {
+  text-align: center;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+.most-loved-catalog h1 {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: #2b2b2b;
+  margin: 20px;
+}
+
+.most-loved-catalog .product-tiles {
+  justify-content: space-between;
+}
+
+.most-loved-catalog .product-tile {
+  display: inline-block;
+  width: 23.672566371%;
+}
+
+.most-loved-catalog .product-tile-image {
+  position: relative;
+}
+
+.most-loved-catalog .product-tile-image img {
+  width: 100%;
+}
+
+.most-loved-catalog .product-tile .product-tile-badge {
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.most-loved-catalog .product-tile .product-tile-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.most-loved-catalog .product-tile .product-tile-price {
+  text-align: center;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+.home-marketing-section .marketing-section h1 {
+  font-size: 44px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+}
+
+.home-marketing-section .marketing-section p {
+  font-size: 22px;
+  text-align: left;
+  font-weight: normal;
+  margin: 20px 0 20px 0;
+}
+
+/* allign */
+
+.mens-watches h1 {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: #2b2b2b;
+  margin: 20px;
+  text-transform: uppercase;
+}
+
+.mens-watches .product-tiles {
+  justify-content: space-between;
+}
+
+.mens-watches .product-tile {
+  display: inline-block;
+  width: 23.672566371%;
+}
+
+.mens-watches .product-tile-image {
+  position: relative;
+}
+
+.mens-watches .product-tile-image img {
+  width: 100%;
+}
+
+.mens-watches .product-tile .product-tile-badge {
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.mens-watches .product-tile .product-tile-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.mens-watches .product-tile .product-tile-price {
+  text-align: center;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+.product-tile-controls {
+  text-align: center;
+}
+
+.product-tile-controls button {
+  font-size: 22px;
+  background-color: #ffff;
+  padding: 10px;
+  margin: 50px;
+}
+
+.womens-watches h1 {
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: #2b2b2b;
+  margin: 20px;
+  text-transform: uppercase;
+}
+
+.womens-watches .product-tiles {
+  justify-content: space-between;
+}
+
+.womens-watches .product-tile {
+  display: inline-block;
+  width: 23.672566371%;
+}
+
+.womens-watches .product-tile-image {
+  position: relative;
+}
+
+.womens-watches .product-tile-image img {
+  width: 100%;
+}
+
+.womens-watches .product-tile .product-tile-badge {
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.womens-watches .product-tile .product-tile-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.womens-watches .product-tile .product-tile-price {
+  text-align: center;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+.footer {
+  background-color: #e8e8e8;
+  width: 100%;
+  height: 249;
+}
+
+.footer .contact-us ul {
+  display: inline-block;
+  padding: 50px;
+}
+
+.footer .contact-us li {
+  font-size: 22px;
+  text-align: left;
+  font-weight: normal;
+}
+
+.footer-connect {
+  display: inline-block;
+}
+
+.footer-social-media li {
+  float: right;
 }
